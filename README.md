@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Karel Ekema, working as an Application Developer applying Spring, Angular
 - 👀 I’m interested in structured programming
+- 👀 High-code only
 - 🌱 I’m currently learning microservices
 
 <!---
