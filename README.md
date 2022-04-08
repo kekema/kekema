@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Karel Ekema, working as an Application Developer applying Spring, Angular
-- 👀 I’m interested in structured programming
 - 👀 High-code only
-- 🌱 I’m currently learning microservices
 
 <!---
 kekema/kekema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
