@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karel Ekema, working as an Application Developer applying Spring, Angular
+- 👋 Hi, I’m Karel Ekema, working as an Application Developer applying Oracle APEX.
 - 👀 High-code only
 
 <!---
